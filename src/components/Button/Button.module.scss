@@ -1,0 +1,10 @@
+@import '../../styles/settings.scss';
+.button {
+  background-color: $color-success;
+  border: none;
+  font-size: $base-size * 2;
+  border-radius: $radius;
+  color: $color-light;
+  padding: 10px;
+  margin: 5px;
+}

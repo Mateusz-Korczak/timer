@@ -1,0 +1,8 @@
+@import '../../styles/settings.scss';
+.display {
+  border: none;
+  font-size: $base-size * 2;
+  color: $color-light;
+  padding: 10px;
+  margin: 5px;
+}
