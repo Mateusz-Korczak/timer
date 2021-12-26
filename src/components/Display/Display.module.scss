@@ -1,8 +1,13 @@
 @import '../../styles/settings.scss';
 .display {
   border: none;
-  font-size: $base-size * 2;
+  font-size: $base-size * 3;
   color: $color-light;
   padding: 10px;
   margin: 5px;
+}
+
+.display span:last-child {
+  display: inline-block;
+  width: 70px;
 }
